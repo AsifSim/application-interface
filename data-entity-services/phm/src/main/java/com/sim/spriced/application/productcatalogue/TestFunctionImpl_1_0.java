@@ -3,7 +3,6 @@ package com.sim.spriced.application.productcatalogue;
 
 
 import com.sim.spriced.platform.BusinessInterface.ApplicationInterface;
-import com.sim.spriced.platform.BusinessInterface.CustomInterface;
 import com.sim.spriced.platform.BusinessInterface.PlatformContext;
 import com.sim.spriced.platform.BusinessInterface.TransactionData;
 import com.sim.spriced.platform.commons_management_layer.Enums.ValidationStatus;
