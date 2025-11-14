@@ -17,7 +17,6 @@ public class TestFunctionImpl_1_0 implements ApplicationInterface {
     public TestFunctionImpl_1_0() {
     }
 
-
     @Override
     public TransactionData execute(PlatformContext context, TransactionData data) {
         return null;
