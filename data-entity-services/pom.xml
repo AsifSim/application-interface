@@ -14,12 +14,8 @@
     <name>data-entity-services</name>
     <description>Spriced Application</description>
     <modules>
-        <module>simulator</module>
         <module>spriced-application</module>
-        <module>india-pricing-enhancement</module>
-        <module>stocking-enhancement</module>
-        <module>atmus-enhancement</module>
-        <module>nrp-enhancement</module>
+        <module>generic-features</module>
     </modules>
     <packaging>pom</packaging>
     <url/>
